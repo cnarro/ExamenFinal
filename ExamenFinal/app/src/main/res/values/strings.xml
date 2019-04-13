@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <string name="text_name">Nombre</string>
+    <string name="action_add">Agregar</string>
+    <string name="hint_name">Nombre</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_delete">Eliminar</string>
+</resources>
